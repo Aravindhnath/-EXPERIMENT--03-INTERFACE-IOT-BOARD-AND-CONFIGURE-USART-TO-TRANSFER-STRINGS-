@@ -32,7 +32,7 @@ configure in the usart 2 as asynchronous mode and set the baud rate as 115200 as
 ![image](/exp3_iot-1.png)
 
 8. check for execution of the output using run option
-![image](/exp3_iot-1.png)
+![image](/exp3_iot-2.png)
 
 9. Opend serial port utility and check the output
 
@@ -144,7 +144,7 @@ void assert_failed(uint8_t *file, uint32_t line)
 
 ## Output screen shots of Serial port utility   :
  
-![image](/exp3_iot-1.jpg)
+![image](/exp3_iot-3.jpg)
  
  ## Result :
 configuring and usart is accomplished and string data is visualized on the serial port utilty
